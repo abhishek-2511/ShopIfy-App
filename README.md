@@ -13,7 +13,7 @@ Welcome to my React-based E-Commerce website, where shopping meets simplicity an
 ![Screenshot 2023-10-16 130659](https://github.com/rajxode/buyBusy/assets/91653172/2e917f18-781d-4728-b647-0143b615c708)
 
 
-# Features
+## Features
 
 **1. User Authentication:**
 - Seamless signup and login functionality for a personalized shopping experience.
