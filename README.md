@@ -15,20 +15,20 @@ Welcome to my React-based E-Commerce website, where shopping meets simplicity an
 
 # Features
 
-## User Authentication:
+**1. User Authentication:**
 - Seamless signup and login functionality for a personalized shopping experience.
 - Users can create an account, providing a secure and personalized space.
 - Efficient signin process for returning users.
   
-## Shopping Cart Management:
+**2. Shopping Cart Management:**
 - Add or remove products from the cart with ease.
 - Adjust product quantities, ensuring flexibility and convenience.
 - Convenient "Purchase All" button to buy all products in the cart at once.
 
-## Order Placement:
+**3. Order Placement:**
 - Users can place orders effortlessly, making the shopping process efficient.
 
-## Firebase Integration:
+**4. Firebase Integration:**
 - User data is securely stored in Firebase, providing a reliable and scalable solution.
 - Purchase history is maintained for users to review at any time.
 
